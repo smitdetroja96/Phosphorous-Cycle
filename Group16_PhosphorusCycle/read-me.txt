@@ -1,0 +1,12 @@
+﻿Steps to follow for installing the software:
+* Disable the Antivirus of your PC.
+* Extract the .zip into a single folder and open 
+* Run the setup from the same extracted folder. Click on setup.exe and follow the instructions in the opened window. 
+
+
+After the configuration and installation:
+* Select the corresponding inputs from the dropdown menu(the year ,plant uptake and the micro-organism factor) and press SIMULATE to simulate the cycle.
+* Press INFO.  to get an overview  of the processes involved in the Phosphorus cycle.
+* On pressing SIMULATE and after entering the inputs,a simulation of the cycle will be seen,along with the distribution of phosphorus in different fields of the cycle
+* On pressing the button Graph,a graph will be displayed.
+* Press the back button to get redirected to the main window of the Application.
